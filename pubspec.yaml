@@ -28,9 +28,9 @@ dev_dependencies:
 flutter_launcher_icons:
   android: true
   ios: true
-  image_path: "assets/images/scholar_malama.png"
-  adaptive_icon_background: "#2E5A46"
-  adaptive_icon_foreground: "assets/images/scholar_malama.png"
+  image_path: "assets/images/tafseer1447_icon.png"
+  adaptive_icon_background: "#081E33"
+  adaptive_icon_foreground: "assets/images/tafseer1447_icon.png"
 
 flutter:
   uses-material-design: true
